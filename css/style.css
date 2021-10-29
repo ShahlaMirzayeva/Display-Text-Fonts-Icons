@@ -1,0 +1,48 @@
+/* p{
+    display:inline-block;
+    width:200px;
+    height: 200px;
+}
+span:hover{
+    display: none; 
+     visibility: hidden;
+} */
+
+/* div{
+    width:50%;
+} */
+/* p{
+ color:blue;
+direction: rtl;
+} */
+
+a{
+    text-decoration: none;
+}
+@font-face{
+    font-family: Festive-Regular;
+    src:url(../fonts/Festive-Regular.ttf);
+}
+p{
+    /* text-decoration:overline;
+    text-decoration: underline; */
+
+    /* text-transform: capitalize; */
+   /* letter-spacing: -5px; */
+   /* word-spacing: -12px; */
+   /* line-height: 1; */
+   /* text-shadow:-3px -4px 8px red; */
+   /* font-style: oblique; */
+   /* font-size:40px; */
+   /* font-weight: bolder; */
+   /* font-family:Festive-Regular; */
+   font-family: 'Qahiri', sans-serif;
+
+
+}
+.car-icon{
+    color:red;
+    font-size:40px;
+    border:2px solid;
+    border-radius: 50%;
+}
